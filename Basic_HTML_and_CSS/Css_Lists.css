@@ -1,4 +1,4 @@
- <style>
+
     ol {
       list-style-type: upper-roman;
     }
@@ -6,7 +6,7 @@
     ul {
       list-style-type: square;
     }
-  </style>
+ 
 
 
   <h1>List Demo</h1>
@@ -22,6 +22,7 @@
     <li>Tackle box</li>
     <li>Boat snacks</li>
   </ul>
+
 
 
 
