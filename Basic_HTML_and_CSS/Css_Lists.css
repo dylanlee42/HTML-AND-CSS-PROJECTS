@@ -1,12 +1,25 @@
+.styled-ol {
+    list-style-type: upper-roman;
+    padding: 15px;
+    border: 2px solid #87cefa;
+    background-color: #f0f8ff;
+    border-radius: 8px;
+}
 
-    ol {
-      list-style-type: upper-roman;
-    }
+.styled-ul {
+    list-style-type: square;
+    padding: 15px;
+    border: 2px solid #f4a460;
+    background-color: #fff8dc;
+    border-radius: 8px;
+}
 
-    ul {
-      list-style-type: square;
-    }
-
+.title {
+    text-align: center;
+    color: darkblue;
+    text-shadow: 3px 3px 5px gray;
+}
+ 
 
 
 
