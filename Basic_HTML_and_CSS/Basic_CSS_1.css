@@ -3,7 +3,9 @@
 	<head>
 		<style>
 		p {
-	    color: green;
+	    color: blue;
+		background: yellow
+		font-weight: bold;
 		text-align: right;
 		}
 		</style>
