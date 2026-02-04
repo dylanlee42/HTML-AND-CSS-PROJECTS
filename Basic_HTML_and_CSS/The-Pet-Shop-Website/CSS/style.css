@@ -230,7 +230,7 @@ td{
 /*Specifically styles the paragraph elements withinn the
 table data elements*/
 td p{
-    font-gamily: 'Roboto',sans-serif;
+    font-family: 'Roboto',sans-serif;
     color: rgb(255, 255, 255)
 }
 
@@ -313,4 +313,5 @@ input[type="submit"]{
 hovers over it*/
 input[type="submit"]:hover{
     background-color: #052133;
+
 }   
