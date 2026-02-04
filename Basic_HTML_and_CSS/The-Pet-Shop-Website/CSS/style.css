@@ -244,7 +244,7 @@ form{
 input{
     border: 2px solid rgb(165, 165, 165);
     border-radius: 2px;
-    pading: 1px;
+    padding: 1px;
     margin: 10px 15px 10px 0px;
     font-size: 20px;
     color: rgb(165,165,165);
@@ -315,3 +315,4 @@ input[type="submit"]:hover{
     background-color: #052133;
 
 }   
+
