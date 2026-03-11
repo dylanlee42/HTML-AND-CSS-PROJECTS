@@ -1,0 +1,52 @@
+/* Global font settings */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Heading fonts */
+h1, h2, h3 {
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+/* Paragraph and list fonts */
+p, li, td {
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+}
+
+/* Navigation font */
+nav ul li a {
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+/* Form input styles */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea,
+input[type="submit"] {
+    margin-bottom: 10px;
+    display: block;
+    border-radius: 5px;
+}
+
+input[type="checkbox"] {
+    margin-right: 8px;
+}
